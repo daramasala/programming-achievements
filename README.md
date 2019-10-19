@@ -10,7 +10,7 @@ Ran `blame` on a stupid piece of code to find out own name on it.
 Did a quick one liner fix that broke the app disastrously.
 
 ## FOCUS
-Fixed a bug. Thoroughly tested the fix and satisified it is working, deployed to production with all other functionality broken.
+Fixed a bug. Thoroughly tested the fix and satisified it is working, deployed to production breaking the rest of the app.
 
 ## JUMP THE GUN
 Spent 2 hours fixing code that never gets executed.
