@@ -18,8 +18,11 @@ Spent 2 hours fixing code that never gets executed.
 ## GHOST BUSTER
 Spent 2 hours trying to figure why the fix is not working only to find out the source code was not compiled and the code ran without the fix.
 
-## TENIS PLAYER
+## TENNIS PLAYER
 Pushed all the bugs in the sprint to the other team.
+
+## AND MY X
+Submitted a PR that alters a single character
 
 ## FOCUS 2
 Had 3 days for the task. Spent 2.5 days optimizing the IDE color theme.
